@@ -81,7 +81,9 @@ wtwt/
 
 ## Screenshots
 
-> _Add your own screenshots here_
+| Home | Scrubber | Result | History |
+|------|----------|--------|---------|
+| ![Home screen](screenshots/IMG_9579.PNG) | ![Frame scrubber](screenshots/IMG_9581.PNG) | ![Trick result](screenshots/IMG_9577.PNG) | ![Trick history](screenshots/IMG_9578.PNG) |
 
 ## Limitations
 
