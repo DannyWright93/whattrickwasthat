@@ -53,7 +53,7 @@ npx expo start --clear
 
 Scan the QR code with [Expo Go](https://expo.dev/go) on your iPhone or Android device.
 
-> **Note:** Both your phone and Mac must be on the same Wi-Fi network.
+> **Note:** Both your phone and Pc must be on the same Wi-Fi network.
 
 ## How It Works
 
